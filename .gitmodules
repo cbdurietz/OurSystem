@@ -1,0 +1,3 @@
+[submodule "TheirSystem"]
+	path = TheirSystem
+	url = https://github.com/taggarna/TheirSystem.git
